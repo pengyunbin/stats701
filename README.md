@@ -6,4 +6,4 @@
 <br>
 [Assignment 9 MapReduce, Hadoop, PySpark](https://pengyunbin.github.io/stats701/STATS_701_Homework_9)
 <br>
-[Assignment 10 Google Tensorflow](https://pengyunbin.github.io/stats701/STATS_701_Homework_10)
+[Assignment 10 Google Tensorflow](https://pengyunbin.github.io/stats701/stats701_homework_10.html)
